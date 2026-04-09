@@ -20,6 +20,10 @@ img {
   display: block;
 }
 
+.small-text {
+  font-size: 20px
+}
+
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -32,7 +36,7 @@ img {
 }
 
 .logo {
-  font-size: 26px;
+  font-size: 40px;
   font-weight: bold;
 }
 
